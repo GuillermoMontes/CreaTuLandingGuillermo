@@ -1,0 +1,9 @@
+.containerList {
+  background: rgb(29, 148, 61);
+  background: radial-gradient(
+    circle,
+    rgba(29, 148, 61, 1) 0%,
+    rgba(12, 34, 9, 1) 100%
+  );
+  height: 100vh;
+}
